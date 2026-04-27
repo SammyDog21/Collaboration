@@ -1,3 +1,5 @@
 This will be a collaboration
 
 I am figuring out which features are most important when making a successful steam game and using regression analysis to predict the score of a game. (Joseph Ashworth)
+
+I did sentiment analysis on NY Times headlines for 2024 and 2025 (Elizabeth)
