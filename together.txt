@@ -7,3 +7,5 @@ I did sentiment analysis on NY Times headlines for 2024 and 2025 (Elizabeth)
 Nishant: I am adding my comment. I will work on customer churn project.
 
 Milo: I am attempting to predict commodity prices (oil, lithium, copper) using geopolitical shock indicators and regression/forecasting models.
+
+Miguel Rosato: I am currently working in a predictive model for the predictive analysis of Non Productive time in the Rumaila Field in Iraq, using regression tools. 
