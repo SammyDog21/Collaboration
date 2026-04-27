@@ -1,3 +1,5 @@
 This will be a collaboration
 
 I am figuring out which features are most important when making a successful steam game and using regression analysis to predict the score of a game. (Joseph Ashworth)
+
+Nishant: I am adding my comment. I will work on customer churn project.
