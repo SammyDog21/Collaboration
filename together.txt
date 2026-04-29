@@ -11,3 +11,5 @@ Milo: I am attempting to predict commodity prices (oil, lithium, copper) using g
 Miguel Rosato: I am currently working in a predictive model for the predictive analysis of Non Productive time in the Rumaila Field in Iraq, using regression tools. 
 
 I am predicting the extent and severity of a coral bleaching event based on other environmental predictors (Isobel)
+
+James: I am working on a predictive model for the number of hits by a visitor to the Trivago website.
