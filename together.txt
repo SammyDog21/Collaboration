@@ -13,3 +13,5 @@ Miguel Rosato: I am currently working in a predictive model for the predictive a
 I am predicting the extent and severity of a coral bleaching event based on other environmental predictors (Isobel)
 
 James: I am working on a predictive model for the number of hits by a visitor to the Trivago website.
+
+I am working on a machine learning predictive model for house prices in London. I am also looking at which features are most important when it comes to predicting house prices (Martin)
