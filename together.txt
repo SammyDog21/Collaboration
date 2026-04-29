@@ -15,3 +15,5 @@ I am predicting the extent and severity of a coral bleaching event based on othe
 James: I am working on a predictive model for the number of hits by a visitor to the Trivago website.
 
 I am working on a machine learning predictive model for house prices in London. I am also looking at which features are most important when it comes to predicting house prices (Martin)
+
+Lilian Gomez: I am working on a model to predict churn rate of a fitness app. I am also clustering the users to identify different user types.
