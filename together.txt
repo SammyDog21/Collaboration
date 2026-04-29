@@ -17,3 +17,5 @@ James: I am working on a predictive model for the number of hits by a visitor to
 I am working on a machine learning predictive model for house prices in London. I am also looking at which features are most important when it comes to predicting house prices (Martin)
 
 Lilian Gomez: I am working on a model to predict churn rate of a fitness app. I am also clustering the users to identify different user types.
+
+I am working on analysing custoner churn using machine learning (Jenina)
